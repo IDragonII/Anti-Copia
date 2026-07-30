@@ -25,3 +25,7 @@ dist-ssr
 
 # Certificates
 certs/
+
+# opencode generated (not part of the project)
+.opencode/
+design-system/
